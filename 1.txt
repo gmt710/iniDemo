@@ -1,0 +1,21 @@
+文件夹 PATH 列表
+卷序列号为 5446-407F
+E:.
+│  1.txt
+│  iniDemo.sln
+│  
+├─iniDemo
+│  │  iniDemo.cpp
+│  │  iniDemo.vcxproj
+│  │  iniDemo.vcxproj.filters
+│  │  
+│  └─data
+│          profile.ini
+│          
+└─x64
+    └─Release
+        │  iniDemo.exe
+        │  
+        └─data
+                profile.ini
+                
